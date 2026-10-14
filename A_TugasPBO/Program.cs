@@ -159,6 +159,9 @@ class Program
 
         pasien1.Aktivitas();
         dokter.Aktivitas();
-
+        dokter.Diagnosa();
+        dokter.InfoDokter();
+        pasien1.Menangis();
+        nurse.Aktivitas();
     }
 }
